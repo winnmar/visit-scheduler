@@ -1,0 +1,13 @@
+{
+  "doctorName": "Dr. Robert Olmstead",
+  "visitDate": "2024-05-19T09:30:00",
+  "scheduleData": {
+    "Comments": "comment",
+    "Patient": {
+      "Name": "patient",
+      "SecondName": "one",
+      "Email": "asd@asd.com",
+      "Phone": "605943237"
+    }
+  }
+}
